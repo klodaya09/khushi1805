@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @khushi1805
-- 👀 I’m interested in data analysis and visualisation
-- 🌱 I graduated recently in Computer science engineering 
-
+- 👋 Hi, I’m Khushboo Hiten Lodaya currently pursuing my Masters in data science and applications from The State University of NewYork at Buffalo.
+- Looking out for opprtunities in the field of data science and machine learning.
 
 <!---
 khushi1805/khushi1805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
